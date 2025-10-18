@@ -2,6 +2,7 @@
 
 <!-- EliteSoftware Co. LOGO -->
 
+# EliteSoftware - Bypass NRO - Mitigation
 <br />
 <div align="center">
 <a href="Logo">
@@ -11,6 +12,8 @@
 
 <!-- ABOUT THE PROJECT -->
 
+ 💾 About The Project
+
 <br />
 <div align="center">
   <a href="Logo">
@@ -19,7 +22,7 @@
 </p>
 </div>
 
-# 💾 About The Project <div align="center">
+
 ## Mitigation to bypass the removal of OOBE\BYPASSNRO command in windows 11
 ### Originally created by ChrisTitusTech
 - Sets up a local account on Windows 11 bypassing Microsoft Account requirement
@@ -38,10 +41,11 @@
 
 <!-- Remote Command -->
 
-...
+```
 curl -L https://raw.githubusercontent.com/TheShadyRainbow4/Windows11-BypassNRO-Mitigation/refs/heads/main/bypass.cmd -o skip.cmd
 skip.cmd
-...
+
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,4 +60,13 @@ skip.cmd
 #### YouTube - https://www.youtube.com/@zw-computercare-co_YT
 #### Patreon - https://www.patreon.com/c/EliteSoftwareCo
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 🪪 License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
