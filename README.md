@@ -1,12 +1,59 @@
-# Chris Titus Tech's Bypass NRO on STEROIDS!?!?!?
+<a id="readme-top"></a>
 
-From the OOBE Screen press Shift + F10
+<!-- EliteSoftware Co. LOGO -->
 
-```
-curl -L christitus.com/bypass -o skip.cmd
+<br />
+<div align="center">
+<a href="Logo">
+<img src="https://i.postimg.cc/85MDTcrJ/Elite-Software-LOGO-Mocup2.png" alt="Logo" width="256" height="256">
+</a>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+
+<br />
+<div align="center">
+  <a href="Logo">
+    <img src="https://i.postimg.cc/cCDxL7nc/windows-11-oobe-offline-account-676703848.png" alt="Logo" width="1280" height="720">
+  </a>
+</p>
+</div>
+
+# 💾 About The Project <div align="center">
+## Mitigation to bypass the removal of OOBE\BYPASSNRO command in windows 11
+### Originally created by ChrisTitusTech
+- Sets up a local account on Windows 11 bypassing Microsoft Account requirement
+- Skips all setup questions and telemetry/personalization setup
+- Will still allow user to select Language, Region, and Keyboard Layout
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+# 🗺️ Getting Started
+- After freshly installing Windows 11, once on the out of box experince (OOBE) Press Shift + F10 to open the Terminal
+- Next ensure you have a working internet connection
+- Lastly run the command below 
+
+<!-- Remote Command -->
+
+...
+curl -L https://raw.githubusercontent.com/TheShadyRainbow4/Windows11-BypassNRO-Mitigation/refs/heads/main/bypass.cmd -o skip.cmd
 skip.cmd
-```
+...
 
-This will skip the entire OOBE process including microsoft account and ANY questions during the setup process. It still allows you to select your language, region, and keyboard layout.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## 📞 Contact
+
+### Zach Whiteman - elitesoftwarecolimited@gmail.com
+#### HuggingFace - https://huggingface.co/EliteSoftware
+#### HuggingFace(personal) - https://huggingface.co/TheShadyRainbow
+#### LinkTree - https://linktr.ee/zachrainbow
+#### YouTube - https://www.youtube.com/@zw-computercare-co_YT
+#### Patreon - https://www.patreon.com/c/EliteSoftwareCo
 
 
