@@ -23,7 +23,7 @@
 </div>
 
 
-## Mitigation to bypass the removal of OOBE\BYPASSNRO command for Windows 11 (ANY VERSION)
+## Mitigation to bypass the removal of OOBE\BYPASSNRO command for Windows 11    (ANY VERSION)
 ### Originally created by ChrisTitusTech
 - Sets up a local account on Windows 11 bypassing Microsoft Account requirement
 - Skips all setup questions and telemetry/personalization setup
