@@ -13,12 +13,13 @@ Outlines the core functions, limitations, and operational boundaries of the Wind
 
 ## Development
 Built in accordance with EliteSoftware GUI development guidelines.
-- **Technology Stack**: Web technologies (HTML, Vanilla CSS, JavaScript).
-- **Environment**: Modern web browser or Electron runtime container.
+- **Framework**: PowerShell Scripting / .NET WinForms wrapper
+- **Visual Styles**: Enabled for classic desktop theme compatibility.
+- **Apartment State**: STA Mode enforced for GUI/clipboard stability.
 
 ## How to Use
-1. Open the project in a web browser, or launch the desktop container application.
-2. Follow on-screen configuration prompts and UI buttons.
+1. Run the primary script in PowerShell with ExecutionPolicy set to Bypass, or launch the compiled executable.
+2. Use tooltips and controls to interact with system management features.
 
 ---
 ### EliteSoftwareTech Co. - GUI Guidelines
